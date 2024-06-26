@@ -1,7 +1,5 @@
 # ember-quickstart
-
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8b0bb74b-4654-4532-a2d8-f6e572600b84/deploy-status)](https://app.netlify.com/sites/ember-101/deploys)
 
 ## Prerequisites
 
@@ -32,11 +30,6 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 - `npm run test`
 - `npm run test:ember -- --server`
-
-### Linting
-
-- `npm run lint`
-- `npm run lint:fix`
 
 ### Building
 
