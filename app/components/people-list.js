@@ -2,7 +2,7 @@ import Component from '@glimmer/component';
 import { action } from '@ember/object';
 
 export default class PeopleListComponent extends Component {
-    /**
+  /**
      * There is a problem with this though 
      * – if you tried this in the browser,
      *  you will quickly discover that clicking on the buttons
